@@ -11,10 +11,10 @@ This project is a comprehensive data analysis of a contact center, designed to p
 4. Agent Performance Quadrant: This visual insight portrays agent efficiency and workload distribution by plotting agents' performance based on their average handle time (talk duration) and the number of calls answered.
 
 ## Visionalizations 
-<img width="645" alt="image" src="https://github.com/Mohamed6899/Contact_Center_Power_BI_Project_Data_Analysis/assets/126211110/5b77ddbf-2877-4c3f-8a9c-0d1289f6303d">
+<img width="651" alt="image" src="https://github.com/Mohamed6899/Contact_Center_Power_BI_Project_Data_Analysis/assets/126211110/06e67da8-d74d-4f63-8d46-829f4e89bd18">
 
-<img width="645" alt="image" src="https://github.com/Mohamed6899/Contact_Center_Power_BI_Project_Data_Analysis/assets/126211110/2a320999-cc36-4409-8690-25e796eddca7">
+<img width="654" alt="image" src="https://github.com/Mohamed6899/Contact_Center_Power_BI_Project_Data_Analysis/assets/126211110/54c524dc-66a9-4a49-9274-03a7faa7fd4f">
 
-<img width="645" alt="image" src="https://github.com/Mohamed6899/Contact_Center_Power_BI_Project_Data_Analysis/assets/126211110/28b1c897-4fcc-4c0c-87f7-69e8b398271d">
+<img width="649" alt="image" src="https://github.com/Mohamed6899/Contact_Center_Power_BI_Project_Data_Analysis/assets/126211110/2a10c229-be0c-49b9-bc46-5ca77b5ddc75">
 
 
